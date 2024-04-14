@@ -1,0 +1,11 @@
+create client
+npm i axios react-router-dom react-icons
+npm i nodemon
+
+create server
+npm init -y
+npm i express mongoose cors nodemon
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
