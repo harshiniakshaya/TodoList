@@ -1,5 +1,5 @@
-# TodoList-MERN
-
+# TodoList
+Simple CRUD Operations using MERN Stack!
 ![image](https://github.com/harshiniakshaya/TodoList-MERN/assets/149646981/00560555-567b-4c5b-beb9-04a9d650fb5c)
 
 ![image](https://github.com/harshiniakshaya/TodoList-MERN/assets/149646981/d2ca93e2-8e48-402a-bbf7-5531a9910508)
